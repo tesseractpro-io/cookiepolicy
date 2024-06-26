@@ -1,4 +1,4 @@
-# Cookie Policy
+# Cookie Policy (Markdown Version)
 
 Last Updated: 26 June 2024
 
