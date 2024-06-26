@@ -1,8 +1,8 @@
-# Cookie Policy for Tesseract Pro
+# Cookie Policy for {% appName %}
 
-Last Updated: 2 July 2023
+Last Updated: 26 June 2024
 
-This Cookie Policy explains how Tesseract Pro uses cookies and similar tracking technologies when you access or use our charting platform, Tesseract Pro. By using Tesseract Pro, you consent to the use of cookies and other tracking technologies as described in this policy.
+This Cookie Policy explains how {% appName %} uses cookies and similar tracking technologies when you access or use our charting platform, Tesseract Pro. By using Tesseract Pro, you consent to the use of cookies and other tracking technologies as described in this policy.
 
 ## 1. What Are Cookies?
 
