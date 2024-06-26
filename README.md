@@ -2,7 +2,7 @@
 
 Last Updated: 26 June 2024
 
-This Cookie Policy explains how {% appName %} uses cookies and similar tracking technologies when you access or use our charting platform, {% appName %}. By using {% appName %}, you consent to the use of cookies and other tracking technologies as described in this policy.
+This Cookie Policy explains how {% appName %}{% /appName %} uses cookies and similar tracking technologies when you access or use our charting platform, {% appName %}. By using {% appName %}, you consent to the use of cookies and other tracking technologies as described in this policy.
 
 ## 1. What Are Cookies?
 
